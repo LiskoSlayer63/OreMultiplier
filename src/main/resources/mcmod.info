@@ -3,7 +3,7 @@
   "modid": "oredrop",
   "name": "Ore Drop Multiplier",
   "description": "Multiplies ore drops.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "mcversion": "1.12.2",
   "authorList": ["LizNet"]
 }
